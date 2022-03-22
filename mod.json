@@ -1,0 +1,8 @@
+{
+    "name": "startup-scripts",
+    "displayName": "Startup Scripts",
+    "minGameVersion": 125,
+    "version": 0,
+
+    "hidden": true
+}
